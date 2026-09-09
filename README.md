@@ -1,4 +1,5 @@
 # Demo-Type
 This is my first Repository.
 <br>
-Author- Kalyan samanta
+Author- Kalyan Samanta The owner of Git Hub
+ 
